@@ -1,0 +1,77 @@
+🔧 1. Create or Prepare a GitHub Repo
+
+Go to GitHub and:
+
+Create a new repository (e.g., docs, documentation, etc.)
+Add your Markdown (.md / .mdx) files
+
+Example structure:
+
+/docs
+  ├── introduction.mdx
+  ├── getting-started.mdx
+mint.json
+🔗 2. Connect Mintlify to GitHub
+Log into Mintlify
+Create a new project
+Choose “Import from GitHub”
+Authorize Mintlify to access your GitHub account
+Select your repository
+
+👉 Mintlify will now pull your docs directly from GitHub.
+
+⚙️ 3. Configure mint.json
+
+This is your main config file.
+
+Example:
+
+{
+  "name": "My Docs",
+  "navigation": [
+    {
+      "title": "Getting Started",
+      "pages": ["introduction", "getting-started"]
+    }
+  ]
+}
+Controls sidebar navigation
+Defines structure of your docs
+🚀 4. Automatic Deployments
+
+Once connected:
+
+Every git push to your repo → triggers auto-deploy
+No manual deployment needed
+🔄 5. Local Development (Optional but Useful)
+
+Install Mintlify CLI:
+
+npm install -g mintlify
+
+Run locally:
+
+mintlify dev
+
+This lets you preview docs before pushing.
+
+🌿 6. Typical Workflow
+Edit docs locally
+
+Commit changes:
+
+git add .
+git commit -m "Update docs"
+git push
+Mintlify auto-updates your live docs site 🎉
+💡 Tips
+Use .mdx for interactive components
+Keep file names clean (used in URLs)
+Organize docs into folders for scalability
+Use branches for staging (if needed)
+
+If you want, I can:
+
+Show a real repo example structure
+Help you set up CI/CD with GitHub Actions
+Or debug your current Mintlify setup 👍
