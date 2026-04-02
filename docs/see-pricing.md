@@ -1,3 +1,8 @@
+<div class="heading-wrapper">
+  <h1>See Pricing</h1>
+</div>
+<div class="content-wrapper">
+
 ChatGPT
 Pricing
 See pricing for our individual, business, and enterprise plans.
@@ -125,3 +130,5 @@ Support for data residency in ten regions
 24/7 priority support, SLAs, custom legal terms, and access to AI advisors (eligible customers)
 
 Invoicing and billing, volume discounts
+
+</div>
