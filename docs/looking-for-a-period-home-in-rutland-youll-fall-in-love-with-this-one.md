@@ -114,32 +114,6 @@
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
-<!-- wp:list -->
-<ul class="wp-block-list"><!-- wp:list-item -->
-<li>Three good-sized bedrooms + an additional guest bedroom on the ground floor</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Modernised kitchen and bathroom</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Stunning character details</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Village location near Uppingham</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Private garden and lovely views</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Move-in ready condition</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph -->
