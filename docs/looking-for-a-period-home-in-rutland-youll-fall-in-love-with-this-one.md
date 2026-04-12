@@ -45,6 +45,14 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
+<p>It's a <strong>four-bedroom home</strong>, with a layout that feels cosy but not cramped. Whether you're curling up by the fire in the winter or flinging open the bifold doors in the summer to let in that country air, this is a home that just <em>works</em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>It's a <strong>four-bedroom home</strong>, with a layout that feels cosy but not cramped. Whether you're curling up by the fire in the winter or flinging open the bifold doors in the summer to let in that country air, this is a home that just <em>works</em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
 <p>&nbsp;</p>
 <!-- /wp:paragraph -->
 
