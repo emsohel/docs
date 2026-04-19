@@ -163,3 +163,11 @@
 <!-- wp:paragraph -->
 <p>Over the past two days, 10 and 11 April, a total of 10 international flights were cancelled as lingering uncertainty in the region continued to affect schedules.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Airport Public Relations Officer Engineer Mohammad Ibrahim Khalil said the impact of the Middle East conflict has been significant, with a total of 297 international flights cancelled between 28 February and 11 April.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Airport Public Relations Officer Engineer Mohammad Ibrahim Khalil said the impact of the Middle East conflict has been significant, with a total of 297 international flights cancelled between 28 February and 11 April.</p>
+<!-- /wp:paragraph -->
