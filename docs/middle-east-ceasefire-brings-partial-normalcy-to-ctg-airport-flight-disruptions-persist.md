@@ -171,3 +171,7 @@
 <!-- wp:paragraph -->
 <p>Airport Public Relations Officer Engineer Mohammad Ibrahim Khalil said the impact of the Middle East conflict has been significant, with a total of 297 international flights cancelled between 28 February and 11 April.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Airport Public Relations Officer Engineer Mohammad Ibrahim Khalil said the impact of the Middle East conflict has been significant, with a total of 297 international flights cancelled between 28 February and 20 April.</p>
+<!-- /wp:paragraph -->
