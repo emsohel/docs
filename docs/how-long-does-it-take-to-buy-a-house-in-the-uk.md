@@ -53,3 +53,6 @@
 <p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
 <p id="viewer-797pa"><a href="https://www.eastaway.co.uk/findyourperfecthome"><u><strong>CLICK HERE</strong></u></a><strong> to register as a buyer with us.</strong></p>
 <p><!-- /wp:paragraph --></p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p id="viewer-797pa"><a href="https://www.eastaway.co.uk/findyourperfecthome"><u><strong>CLICK HERE</strong></u></a><strong> to register as a buyer with us.</strong></p>
+<p><!-- /wp:paragraph --></p>
