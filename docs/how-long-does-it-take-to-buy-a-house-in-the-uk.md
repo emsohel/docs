@@ -1,7 +1,5 @@
 <h1>How Long Does It Take to Buy a House in the UK?</h1>
 
-<p>
-
 <!-- wp:image {"id":2314,"sizeSlug":"full","linkDestination":"none"} -->
 <figure class="wp-block-image size-full"><img alt="" class="wp-image-2314"/></figure>
 <!-- /wp:image -->
@@ -91,7 +89,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -99,5 +101,8 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><!-- /wp:paragraph --></p>
+<p>
 <!-- /wp:paragraph -->
+
+</p>
+<p><!-- /wp:paragraph --></p>
