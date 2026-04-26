@@ -501,3 +501,7 @@
 <p>No, but we'll try our best to help you always and we'll point you in the right direction. That's your conveyancer's and surveyor's job. We'll provide all the information we can to support them.</p>
 
 <p>No, but we'll try our best to help you always and we'll point you in the right direction. That's your conveyancer's and surveyor's job. We'll provide all the information we can to support them.</p>
+
+<!-- wp:paragraph -->
+<p>Buying a home? It's exciting, it's emotional, and yes, it can feel overwhelming. We get it. At the end of the day, this isn't just a transaction; it's your future.</p>
+<!-- /wp:paragraph -->
