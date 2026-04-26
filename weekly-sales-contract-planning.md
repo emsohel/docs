@@ -34,3 +34,5 @@
 
 If any changes are committed from a different source, then those changes should be displayed on the pull tab, but currently they are displayed on the push tab. And I need a
   real-time update for push and pull. Now it needs to reload the pages to get the changes. Please verify and fix those issues
+
+  Automating the sharing of your WordPress posts on Medium with SchedulePress brings many benefits. It saves you time, ensures your content reaches a wider audience and helps grow your Medium presence without the hassle of manual posting.
