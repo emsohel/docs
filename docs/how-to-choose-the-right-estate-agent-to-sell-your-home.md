@@ -183,3 +183,11 @@
 <!-- wp:paragraph -->
 <p>Selling your home is a significant event, and choosing the right estate agent in Stamford is a critical decision in the process. The temptation to select an agent based on the promise of a high sale price or the lowest commission can be strong, but there are far more important factors to consider.</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I am a skilled negotiator with excellent customer service skills and a passion for property. I go above and beyond for my clients, helping them achieve their property goals.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>I would love the opportunity to help you sell your property. I offer free, no-obligation market appraisal meetings to discuss your requirements and goals, provide an up-to-date valuation and tell you how I believe I can help you get the results you want.</p>
+<!-- /wp:paragraph -->
