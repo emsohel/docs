@@ -31,3 +31,6 @@
 <!-- wp:paragraph -->
 <p>When sharing your WordPress posts on Medium, it is important to follow some best practices to make your content more effective and engaging. These tips will help you get the most out of your posts on Medium and other social media platforms.</p>
 <!-- /wp:paragraph -->
+
+If any changes are committed from a different source, then those changes should be displayed on the pull tab, but currently they are displayed on the push tab. And I need a
+  real-time update for push and pull. Now it needs to reload the pages to get the changes. Please verify and fix those issues
