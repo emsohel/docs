@@ -1,5 +1,3 @@
-<h1>What Estate Agents Must Legally Tell You About a Property</h1>
-
 <!-- wp:heading -->
 <h2 class="wp-block-heading"><span style="font-size: 12pt;"><strong>What Estate Agents Must Legally Tell You About a Property</strong></span></h2>
 <!-- /wp:heading -->
